@@ -1,0 +1,23 @@
+#wrapper{
+    background-color: lightblue;
+    padding: 0;
+}
+.fa-trash{
+    color: red;
+}
+textarea {
+    width : 95%;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 0;
+}
+.modal input{
+    width : 95%;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 0;
+}
+
+.card{
+    height: 200px;
+}
